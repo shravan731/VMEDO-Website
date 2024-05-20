@@ -1,4 +1,5 @@
 VMEDO Official Site | www.vmedo.com 
+
 Key Skills: Requirement gathering, SDLC, Front End Engineering, Angular, Tailwind CSS, REST API, SEO, Hosting
 
 Description: Developed a responsive web application for emergency healthcare, offering round-the-clock assistance, Doctor consultations, Healthcare bookings, Blood donor search, corporate services and quick access to patient information via emergency cards.
