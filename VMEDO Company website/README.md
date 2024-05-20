@@ -1,1 +1,1 @@
-"# VMEDO-Website" 
+VMEDO responsive web application
